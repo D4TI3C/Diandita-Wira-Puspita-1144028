@@ -5,7 +5,8 @@
 
 
 
-Representasi Pengetahuan
+# Representasi Pengetahuan
+
 Pengetahuan dibedakan menjadi 3 klasifikasi yaitu:
 Prodecural Knowledge adalah pengetahuan yang berkaitan dengan prosedur atau cara untuk melakukan sesuatu. Contohnya, bagaimana cara mendidihkan air dalam panci.
 Declarative Knowledge adalah pengetahuan untuk dapat menentukan nilai benar dan salah suatu hal. Contohnya, jangan celupkan tangan anda dalam air yang mendidih.
