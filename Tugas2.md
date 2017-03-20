@@ -74,7 +74,9 @@ Sri Kusumadewi, Artificial Intelligence : Teknik dan Aplikasinya, Graha Ilmu, Yo
 
 2. https://drive.google.com/open?id=0B17w878LGlWFTUtSeTA2bXBGNVE 
 
+# Link Source Code python
 
+1. https://github.com/D4TI3C/Diandita-Wira-Puspita-1144028/blob/master/Pertemuan1.py
 
 
 
