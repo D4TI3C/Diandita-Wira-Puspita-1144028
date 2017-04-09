@@ -64,3 +64,5 @@ https://drive.google.com/open?id=0B17w878LGlWFYW8zVk9adm14NzQ
 
 https://drive.google.com/open?id=0B17w878LGlWFLW5ESXRSQTlrSU0 
 
+# Link Blog
+http://dianditapuspita.blogspot.co.id/2017/04/diandita-wira-puspita-1144028-d4-teknik.html 
