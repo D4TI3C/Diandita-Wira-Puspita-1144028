@@ -53,5 +53,13 @@ https://www.youtube.com/watch?v=RZcKwGtxmA0&t=13s
 
 Plagiatrisme
 https://drive.google.com/open?id=0B17w878LGlWFbzJ6aWlhNzhobXM 
+
+
 https://drive.google.com/open?id=0B17w878LGlWFbzZrZU9nOWMtTHc
+
+
+Blog
+
+http://dianditapuspita.blogspot.co.id/2017/06/kecerdasan-buatan-tugas-ke-6-tentang.html
+
 
